@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋🤓
+I'm norgor! Want to come in contact with me? You can do so at <norgor@gmail.com>
 <!--
 **norgor/norgor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=norgor&theme=radical&show_icons=true)
